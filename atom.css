@@ -1,0 +1,27 @@
+body.ex2 {
+    background-color: linen;
+}
+
+h1 {
+    color: maroon;
+    margin-left: 40px;
+}
+
+div.ex1 {
+width:600px;
+margin: auto;
+border: 3px solid #73AD21;
+}
+table.ex3, td, th {
+    border: 1px solid #ddd;
+    text-align: left;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    padding: 15px;
+}
